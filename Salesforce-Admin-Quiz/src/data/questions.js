@@ -1818,7 +1818,7 @@ export const questions = [
       }
     ],
     "correctAnswers": [
-      "B"
+      "A"
     ],
     "chooseCount": 1
   },
@@ -5296,7 +5296,7 @@ export const questions = [
       }
     ],
     "correctAnswers": [
-      "A"
+      "B"
     ],
     "chooseCount": 1
   },
@@ -6159,7 +6159,7 @@ export const questions = [
       }
     ],
     "correctAnswers": [
-      "B"
+      "D"
     ],
     "chooseCount": 1
   },
@@ -6211,8 +6211,8 @@ export const questions = [
       }
     ],
     "correctAnswers": [
-      "A",
-      "C"
+      "B",
+      "D"
     ],
     "chooseCount": 2
   },
